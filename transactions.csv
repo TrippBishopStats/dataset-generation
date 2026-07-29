@@ -1,0 +1,501 @@
+Date,Sales_Rep,Region,Brand,Sales,COGS
+2024-12-20,Dale Warren,West,Ralph Lauren,266.14,143.53
+2025-09-01,Scott Gonzalez,Northeast,Jessica Simpson,155.19,50.61
+2025-03-26,Felipe Weber,North Central,Puma,477.46,311.22
+2023-09-02,Rogelio Stanley,West,New Balance,422.64,344.03
+2025-02-15,Scott Gonzalez,West,Tommy Hilfiger,231.84,143.92
+2023-05-06,Dale Warren,North Central,New Balance,460.39,276.05
+2026-02-27,Rogelio Stanley,West,ADIDAS,162.91,128.93
+2026-02-18,Martin Lynch,West,Calvin Klein,378.42,123.27
+2024-01-04,Paul Partick,North Central,Calvin Klein,548.65,388.01
+2023-03-06,Lowell Norton,North Central,Puma,420.9,380.97
+2023-05-16,Felipe Weber,South,Ralph Lauren,212.78,111.07
+2023-04-07,Paul Partick,West,Nike,140.9,70.69
+2025-12-28,Scott Gonzalez,Northeast,Puma,260.94,107.06
+2023-03-20,Rogelio Stanley,West,Nike,43.06,25.58
+2025-03-18,Aubrey Santiago,West,ADIDAS,250.08,81.91
+2024-03-05,Scott Gonzalez,North Central,Tommy Hilfiger,469.48,404.47
+2024-02-12,Rogelio Stanley,Northeast,New Balance,188.49,79.96
+2025-05-18,Dale Warren,West,ADIDAS,236.21,180.17
+2025-08-20,Paul Partick,South,Calvin Klein,42.84,37.41
+2023-10-01,Martin Lynch,North Central,Calvin Klein,327.15,295.97
+2023-10-14,Dale Warren,West,Jessica Simpson,478.03,341.48
+2025-07-20,Felipe Weber,West,Jessica Simpson,480.38,154.04
+2024-03-21,Martin Lynch,North Central,Calvin Klein,511.88,351.42
+2023-10-04,Marion Nichols,West,ADIDAS,284.2,177.63
+2025-09-25,Lowell Norton,South,ADIDAS,131.92,43.57
+2026-03-11,Martin Lynch,North Central,Jessica Simpson,590.78,498.16
+2025-06-11,Tomas Shaw,South,New Balance,593.78,536.28
+2025-02-13,Dale Warren,West,Calvin Klein,190.04,86.68
+2025-12-05,Lowell Norton,South,Tommy Hilfiger,221.55,145.95
+2023-12-31,Scott Gonzalez,South,ADIDAS,595.51,281.72
+2023-06-27,Dale Warren,Northeast,Puma,396.76,126.63
+2024-06-19,Dale Warren,Northeast,Calvin Klein,168.78,96.79
+2025-03-24,Rogelio Stanley,Northeast,ADIDAS,150.92,112.15
+2025-07-11,Cesar Bryant,South,Calvin Klein,197.99,171.69
+2024-10-30,Cesar Bryant,South,Tommy Hilfiger,571.11,553.31
+2024-04-05,Cesar Bryant,South,Tommy Hilfiger,111.29,56.55
+2025-08-30,Felipe Weber,Northeast,Ralph Lauren,534.92,301.8
+2024-09-06,Paul Partick,North Central,Jessica Simpson,422.65,304.56
+2026-01-29,Paul Partick,North Central,Jessica Simpson,128.37,88.6
+2024-07-05,Cesar Bryant,South,Nike,440.5,304.43
+2025-03-12,Dale Warren,Northeast,Nike,259.11,145.78
+2023-08-09,Lowell Norton,South,Calvin Klein,513.66,336.43
+2024-07-03,Paul Partick,Northeast,Puma,189.1,103.59
+2024-11-24,Paul Partick,South,Jessica Simpson,536.43,220.05
+2023-04-30,Paul Partick,West,Tommy Hilfiger,108.21,66.18
+2023-08-02,Rogelio Stanley,West,Calvin Klein,480.04,441.13
+2025-11-27,Tomas Shaw,West,Tommy Hilfiger,191.03,159.63
+2024-04-16,Marion Nichols,North Central,New Balance,310.22,79.45
+2025-06-04,Dale Warren,South,Jessica Simpson,400.53,240.68
+2025-10-01,Marion Nichols,Northeast,Tommy Hilfiger,514.23,214.34
+2024-10-22,Aubrey Santiago,South,Jessica Simpson,390.61,129.62
+2025-08-25,Paul Partick,West,Puma,57.48,29.85
+2025-10-03,Martin Lynch,South,Nike,328.36,223.49
+2023-11-21,Martin Lynch,North Central,Jessica Simpson,233.54,138.25
+2024-10-17,Dale Warren,South,Calvin Klein,55.02,37.82
+2025-09-19,Scott Gonzalez,West,Ralph Lauren,343.02,228.43
+2024-01-22,Scott Gonzalez,South,New Balance,510.91,497.49
+2025-08-21,Cesar Bryant,North Central,Ralph Lauren,158.41,74.09
+2023-04-14,Lowell Norton,Northeast,Jessica Simpson,226.47,81.67
+2024-10-25,Lowell Norton,West,New Balance,522.08,391.21
+2025-02-24,Lowell Norton,South,Jessica Simpson,466.24,321.24
+2023-11-27,Aubrey Santiago,North Central,New Balance,212.23,118.02
+2025-01-05,Scott Gonzalez,West,Jessica Simpson,411.37,335.93
+2025-09-22,Lowell Norton,North Central,Tommy Hilfiger,86.18,63.57
+2025-04-17,Paul Partick,West,Tommy Hilfiger,247.21,160.94
+2024-05-10,Paul Partick,North Central,Ralph Lauren,404.97,374.92
+2025-11-07,Cesar Bryant,South,Tommy Hilfiger,409.84,137.52
+2025-12-26,Rogelio Stanley,South,New Balance,418.1,289.47
+2025-10-17,Paul Partick,North Central,Tommy Hilfiger,34.16,18.67
+2025-03-08,Lowell Norton,West,New Balance,410.41,177.75
+2023-09-09,Dale Warren,North Central,Calvin Klein,231.69,161.35
+2025-07-24,Paul Partick,North Central,ADIDAS,564.83,399.13
+2024-08-04,Rogelio Stanley,Northeast,Tommy Hilfiger,142.12,45.33
+2023-07-18,Martin Lynch,North Central,New Balance,304.63,134.94
+2025-05-14,Scott Gonzalez,West,Puma,158.93,136.91
+2023-09-12,Martin Lynch,West,ADIDAS,312.05,159.06
+2023-08-19,Dale Warren,North Central,Ralph Lauren,216.43,208.82
+2023-06-12,Aubrey Santiago,South,Ralph Lauren,356.12,324.6
+2024-11-13,Felipe Weber,North Central,ADIDAS,476.54,415.57
+2024-01-13,Rogelio Stanley,South,ADIDAS,595.95,185.57
+2026-01-31,Marion Nichols,North Central,ADIDAS,302.79,89.36
+2024-06-01,Rogelio Stanley,South,New Balance,119.62,54.76
+2025-10-19,Tomas Shaw,West,Jessica Simpson,207.95,153.52
+2025-07-12,Dale Warren,North Central,Puma,394.67,162.65
+2024-01-26,Felipe Weber,South,ADIDAS,244.88,74.37
+2026-02-03,Scott Gonzalez,North Central,ADIDAS,213.94,88.2
+2024-05-03,Lowell Norton,South,Tommy Hilfiger,531.1,347.93
+2025-01-18,Lowell Norton,South,Calvin Klein,325.58,135.79
+2026-03-15,Cesar Bryant,South,Calvin Klein,124.33,50.32
+2025-04-26,Paul Partick,West,Jessica Simpson,184.67,65.48
+2025-01-17,Martin Lynch,North Central,Jessica Simpson,78.76,50.42
+2024-02-09,Dale Warren,North Central,Puma,549.63,396.76
+2025-10-22,Marion Nichols,Northeast,ADIDAS,393.9,334.12
+2024-02-15,Felipe Weber,North Central,Ralph Lauren,231.43,197.93
+2025-09-17,Felipe Weber,North Central,ADIDAS,540.16,539.95
+2023-08-17,Aubrey Santiago,South,ADIDAS,126.43,82.21
+2023-10-22,Scott Gonzalez,South,Calvin Klein,228.4,148.74
+2023-07-05,Aubrey Santiago,Northeast,Puma,291.81,239.79
+2023-12-16,Marion Nichols,Northeast,Tommy Hilfiger,326.46,176.36
+2024-12-16,Aubrey Santiago,West,Jessica Simpson,326.42,227.94
+2025-07-19,Martin Lynch,West,Nike,128.72,128.55
+2023-04-18,Paul Partick,West,Calvin Klein,188.33,50.5
+2023-07-06,Felipe Weber,Northeast,Tommy Hilfiger,597.36,509.63
+2026-03-09,Paul Partick,West,Tommy Hilfiger,36.97,32.75
+2023-08-29,Scott Gonzalez,West,Tommy Hilfiger,199.38,109.58
+2026-02-23,Scott Gonzalez,Northeast,Tommy Hilfiger,561.32,188.5
+2025-01-25,Aubrey Santiago,Northeast,Calvin Klein,459.51,141.1
+2023-09-21,Marion Nichols,South,Tommy Hilfiger,59.78,45.98
+2024-01-14,Rogelio Stanley,Northeast,Ralph Lauren,481.44,275.83
+2025-06-02,Paul Partick,Northeast,Tommy Hilfiger,148.31,77.76
+2025-01-15,Marion Nichols,West,Puma,148.32,61.45
+2023-07-17,Rogelio Stanley,South,New Balance,590.67,321.71
+2024-04-18,Martin Lynch,West,New Balance,412.15,118.05
+2023-03-23,Paul Partick,West,Ralph Lauren,175.8,88.69
+2025-01-20,Martin Lynch,South,New Balance,277.45,74.04
+2025-05-21,Lowell Norton,North Central,Tommy Hilfiger,460.76,266.01
+2026-02-22,Felipe Weber,North Central,Ralph Lauren,488.92,230.88
+2024-04-14,Lowell Norton,South,Ralph Lauren,38.99,33.99
+2024-10-20,Felipe Weber,South,ADIDAS,63.26,55.81
+2023-11-25,Cesar Bryant,Northeast,Calvin Klein,110.4,30.41
+2025-09-15,Aubrey Santiago,North Central,Nike,568.03,519.48
+2024-05-26,Marion Nichols,South,Jessica Simpson,65.33,33.68
+2025-08-04,Scott Gonzalez,West,Calvin Klein,114.01,35.12
+2024-03-06,Tomas Shaw,North Central,Puma,393.27,273.36
+2025-03-31,Paul Partick,Northeast,Ralph Lauren,396.42,343.53
+2025-04-14,Lowell Norton,North Central,Jessica Simpson,407.34,372.71
+2025-06-14,Felipe Weber,North Central,Ralph Lauren,454.86,452.95
+2023-10-18,Tomas Shaw,West,Tommy Hilfiger,453.14,350.76
+2025-01-19,Martin Lynch,South,Tommy Hilfiger,485.73,478.75
+2025-04-06,Marion Nichols,North Central,Ralph Lauren,593.44,350.89
+2024-03-19,Dale Warren,South,Puma,129.18,103.5
+2025-02-08,Lowell Norton,South,Calvin Klein,372.73,335.88
+2023-04-19,Felipe Weber,West,Puma,397.7,206.23
+2026-03-02,Cesar Bryant,South,Jessica Simpson,96.23,48.57
+2026-02-14,Aubrey Santiago,North Central,Puma,425.82,238.86
+2023-05-08,Rogelio Stanley,West,ADIDAS,97.03,54.62
+2023-05-25,Martin Lynch,West,Tommy Hilfiger,200.82,180.15
+2025-01-01,Martin Lynch,South,ADIDAS,554.25,392.55
+2025-01-08,Rogelio Stanley,Northeast,New Balance,123.79,119
+2024-10-02,Rogelio Stanley,West,New Balance,236.06,206.82
+2023-09-26,Scott Gonzalez,West,Jessica Simpson,359.69,243.68
+2024-07-30,Tomas Shaw,Northeast,Puma,317.88,283.4
+2024-09-28,Aubrey Santiago,Northeast,Calvin Klein,272.82,217.98
+2025-12-25,Paul Partick,Northeast,Calvin Klein,252.76,160.42
+2024-04-03,Felipe Weber,North Central,ADIDAS,382.59,146.19
+2025-08-15,Scott Gonzalez,South,Ralph Lauren,117.28,70.81
+2025-10-05,Rogelio Stanley,West,Puma,559.07,313.68
+2024-04-04,Lowell Norton,South,Jessica Simpson,268.3,255.59
+2023-11-23,Paul Partick,Northeast,Ralph Lauren,473.3,136.4
+2023-11-28,Aubrey Santiago,Northeast,Nike,285.48,105.48
+2025-10-26,Paul Partick,North Central,Nike,335.77,304.47
+2024-05-11,Paul Partick,South,Tommy Hilfiger,233.85,108.52
+2024-03-13,Marion Nichols,Northeast,Jessica Simpson,381.41,168.81
+2023-09-10,Felipe Weber,West,New Balance,162.98,51.18
+2023-12-01,Felipe Weber,South,Nike,420.58,152.32
+2026-02-15,Felipe Weber,North Central,New Balance,506.38,284.22
+2025-07-18,Marion Nichols,South,Puma,124.97,39.71
+2024-05-06,Tomas Shaw,West,Ralph Lauren,368.72,226.99
+2025-10-12,Scott Gonzalez,South,ADIDAS,346.2,249.81
+2023-11-24,Aubrey Santiago,South,Tommy Hilfiger,485.97,328.38
+2025-06-26,Lowell Norton,Northeast,ADIDAS,317.5,233.97
+2024-12-18,Dale Warren,South,New Balance,433.77,261.67
+2025-08-19,Tomas Shaw,South,Nike,81.6,26.18
+2024-02-23,Aubrey Santiago,North Central,Tommy Hilfiger,435.09,202.28
+2024-04-10,Marion Nichols,South,Nike,96.43,41.26
+2024-11-11,Rogelio Stanley,West,ADIDAS,95.2,87.8
+2023-11-17,Dale Warren,West,Calvin Klein,594.03,160.74
+2023-03-27,Felipe Weber,North Central,New Balance,97.82,47.43
+2023-04-09,Felipe Weber,West,Tommy Hilfiger,536.48,492.41
+2026-02-05,Scott Gonzalez,West,Nike,362.63,204.84
+2025-12-27,Martin Lynch,West,New Balance,540.99,385.16
+2025-07-08,Lowell Norton,South,Ralph Lauren,521.7,414.05
+2026-02-20,Marion Nichols,Northeast,New Balance,334.18,287.6
+2023-05-14,Scott Gonzalez,South,ADIDAS,570.91,506.88
+2025-01-12,Lowell Norton,South,Puma,534.76,399.41
+2026-01-12,Martin Lynch,South,New Balance,582.61,423.59
+2023-06-22,Scott Gonzalez,South,Ralph Lauren,314.82,219.14
+2024-05-02,Scott Gonzalez,Northeast,New Balance,421.66,132.42
+2024-09-25,Felipe Weber,Northeast,Tommy Hilfiger,572.93,150.33
+2024-10-10,Marion Nichols,West,Ralph Lauren,458.25,131.87
+2024-03-22,Lowell Norton,South,Ralph Lauren,509.18,199.02
+2026-01-24,Martin Lynch,South,Jessica Simpson,235.84,173.91
+2024-08-09,Martin Lynch,North Central,Calvin Klein,532.66,471.79
+2025-07-15,Marion Nichols,North Central,New Balance,501.98,330.01
+2023-05-21,Scott Gonzalez,West,Puma,466.31,427.34
+2025-07-28,Lowell Norton,Northeast,Jessica Simpson,366.15,173
+2024-09-30,Marion Nichols,West,New Balance,37.54,21.14
+2026-01-19,Felipe Weber,North Central,Ralph Lauren,105.7,69.12
+2025-10-14,Martin Lynch,South,Calvin Klein,200.64,111.02
+2026-01-22,Scott Gonzalez,North Central,Calvin Klein,581.7,574.71
+2025-01-10,Marion Nichols,North Central,New Balance,299.65,264.66
+2024-09-16,Paul Partick,South,ADIDAS,382.92,296.19
+2024-10-29,Martin Lynch,North Central,Jessica Simpson,326,135.51
+2025-02-03,Rogelio Stanley,South,ADIDAS,367.67,247.16
+2023-04-22,Scott Gonzalez,South,Calvin Klein,334.57,233.84
+2024-06-08,Felipe Weber,North Central,New Balance,537.8,416.05
+2024-04-17,Cesar Bryant,North Central,Nike,124.34,103.67
+2024-03-12,Cesar Bryant,West,Calvin Klein,155.58,129.68
+2025-04-02,Lowell Norton,West,Nike,49.32,13.9
+2023-04-16,Aubrey Santiago,Northeast,ADIDAS,303.66,283.45
+2023-08-13,Marion Nichols,North Central,Tommy Hilfiger,571.92,560.75
+2023-05-10,Cesar Bryant,Northeast,Calvin Klein,163.99,54.09
+2024-02-10,Lowell Norton,South,Ralph Lauren,60.26,39.79
+2024-12-26,Paul Partick,West,Puma,381.89,252.46
+2024-01-15,Cesar Bryant,South,Ralph Lauren,81.12,79.57
+2023-12-29,Martin Lynch,Northeast,ADIDAS,256.17,248.47
+2026-02-26,Dale Warren,South,Tommy Hilfiger,47.77,29.31
+2024-08-11,Marion Nichols,Northeast,New Balance,375.29,113.65
+2023-09-16,Dale Warren,North Central,Nike,291.18,172.09
+2023-07-31,Scott Gonzalez,South,Calvin Klein,157.6,104.77
+2024-08-25,Cesar Bryant,West,Nike,147.05,87.58
+2023-12-10,Dale Warren,West,Ralph Lauren,423.71,415.95
+2023-05-15,Paul Partick,North Central,New Balance,247.49,70.83
+2025-11-30,Dale Warren,West,New Balance,332.75,284.78
+2023-10-17,Marion Nichols,West,Ralph Lauren,285.84,94.3
+2024-09-11,Tomas Shaw,West,Jessica Simpson,274.26,165.42
+2023-04-17,Aubrey Santiago,North Central,Nike,386.82,383.28
+2023-04-12,Rogelio Stanley,West,New Balance,442.45,312.16
+2023-03-14,Cesar Bryant,South,Ralph Lauren,447.75,165.55
+2024-05-01,Felipe Weber,South,New Balance,211.73,69.72
+2025-04-13,Rogelio Stanley,South,Ralph Lauren,156.78,96.51
+2023-08-05,Scott Gonzalez,South,ADIDAS,92.01,72.75
+2024-03-18,Aubrey Santiago,Northeast,Nike,336.82,277.23
+2025-03-15,Marion Nichols,North Central,Jessica Simpson,221.13,64.32
+2024-03-10,Dale Warren,West,New Balance,301.84,289.31
+2024-10-07,Dale Warren,South,Nike,449.18,286.1
+2026-01-08,Lowell Norton,South,ADIDAS,273.15,161.09
+2023-12-25,Martin Lynch,North Central,Jessica Simpson,173.19,52.61
+2024-06-02,Marion Nichols,South,Ralph Lauren,598.84,257.65
+2025-10-11,Rogelio Stanley,North Central,New Balance,444.91,339.89
+2024-07-10,Martin Lynch,West,Ralph Lauren,320.33,226.12
+2025-11-18,Marion Nichols,West,Jessica Simpson,104.97,58.1
+2024-12-22,Lowell Norton,South,New Balance,549.85,430.34
+2023-09-28,Rogelio Stanley,North Central,Puma,274.39,211.41
+2025-05-01,Cesar Bryant,West,Calvin Klein,314.32,304.81
+2024-08-20,Rogelio Stanley,South,Tommy Hilfiger,583.55,491.02
+2024-07-14,Martin Lynch,South,Nike,205.3,135.26
+2024-11-18,Dale Warren,South,Jessica Simpson,502.04,139.84
+2025-11-08,Paul Partick,West,Ralph Lauren,281.51,83.46
+2023-08-16,Scott Gonzalez,North Central,New Balance,498.2,198.42
+2024-05-12,Aubrey Santiago,West,Tommy Hilfiger,593.66,271.51
+2024-10-23,Marion Nichols,South,Nike,36.29,15.59
+2025-09-04,Marion Nichols,North Central,Jessica Simpson,534.48,510.14
+2023-09-07,Marion Nichols,South,New Balance,396.82,177.02
+2024-12-12,Tomas Shaw,South,Nike,289.08,243.37
+2023-08-28,Scott Gonzalez,West,New Balance,54.19,50.73
+2025-05-23,Martin Lynch,South,Puma,244.21,99.84
+2023-05-19,Rogelio Stanley,South,Puma,97.88,28.74
+2026-01-05,Felipe Weber,North Central,Nike,268.1,267.55
+2025-09-10,Paul Partick,South,New Balance,389.23,329.07
+2023-11-06,Paul Partick,South,Jessica Simpson,356.45,214.32
+2023-05-24,Lowell Norton,North Central,Jessica Simpson,566.15,229.06
+2025-06-08,Paul Partick,North Central,Jessica Simpson,505.49,433.1
+2024-11-21,Felipe Weber,South,Nike,238.77,76.95
+2024-04-11,Martin Lynch,Northeast,Nike,464.4,122.39
+2023-08-26,Lowell Norton,South,New Balance,236.78,216.77
+2025-10-27,Rogelio Stanley,South,ADIDAS,505.55,178.74
+2024-07-11,Marion Nichols,Northeast,New Balance,589.97,346.47
+2024-04-30,Scott Gonzalez,West,Jessica Simpson,91.68,83.39
+2024-11-01,Felipe Weber,North Central,Tommy Hilfiger,243.25,216.41
+2023-12-26,Cesar Bryant,West,Nike,564.6,199.21
+2023-09-19,Aubrey Santiago,North Central,ADIDAS,32.42,28.1
+2025-08-29,Felipe Weber,West,ADIDAS,199.55,68.41
+2025-02-16,Marion Nichols,North Central,ADIDAS,290.96,214.3
+2024-05-15,Cesar Bryant,Northeast,Nike,410.04,201.04
+2025-02-05,Paul Partick,South,Ralph Lauren,169.66,81.55
+2024-12-31,Martin Lynch,North Central,Tommy Hilfiger,438.68,410.41
+2024-05-05,Dale Warren,West,ADIDAS,569.72,162.62
+2023-06-11,Aubrey Santiago,Northeast,Tommy Hilfiger,399.26,213.75
+2024-07-27,Martin Lynch,Northeast,ADIDAS,226.59,92.57
+2024-03-20,Martin Lynch,North Central,Tommy Hilfiger,487.94,299.48
+2023-07-26,Dale Warren,North Central,Ralph Lauren,486.38,430.79
+2024-05-07,Felipe Weber,West,Calvin Klein,542.65,153.69
+2025-09-27,Tomas Shaw,West,Calvin Klein,104.36,86.74
+2025-07-13,Rogelio Stanley,South,Jessica Simpson,143.9,87.85
+2024-01-08,Paul Partick,West,Nike,510.65,474.55
+2025-06-30,Aubrey Santiago,South,Calvin Klein,468.23,275.38
+2024-06-27,Martin Lynch,North Central,Calvin Klein,591.52,206.73
+2024-12-17,Paul Partick,Northeast,Jessica Simpson,565.37,355.85
+2023-06-14,Felipe Weber,North Central,Jessica Simpson,179.33,150.78
+2025-10-08,Cesar Bryant,Northeast,Jessica Simpson,68.91,48.03
+2024-12-01,Lowell Norton,North Central,Nike,538.52,448.46
+2023-04-28,Marion Nichols,South,New Balance,398.21,168.74
+2025-07-17,Paul Partick,Northeast,Ralph Lauren,396.39,342.65
+2025-02-09,Marion Nichols,West,Calvin Klein,369.79,93.54
+2023-04-27,Tomas Shaw,South,New Balance,58.07,41.99
+2025-04-29,Rogelio Stanley,South,Calvin Klein,260.28,104.91
+2024-01-02,Paul Partick,West,ADIDAS,170.2,123.28
+2025-07-05,Rogelio Stanley,North Central,ADIDAS,400.19,110.86
+2025-12-08,Paul Partick,North Central,New Balance,369.15,121.77
+2024-01-23,Martin Lynch,South,New Balance,183.44,128.93
+2023-11-30,Felipe Weber,Northeast,Ralph Lauren,328.92,139
+2024-06-12,Lowell Norton,North Central,ADIDAS,477.28,286.79
+2025-06-06,Tomas Shaw,Northeast,New Balance,314.64,291.97
+2024-03-01,Scott Gonzalez,Northeast,ADIDAS,562.93,440.01
+2024-11-30,Lowell Norton,South,Calvin Klein,503.36,221.84
+2025-10-21,Dale Warren,South,Ralph Lauren,204.38,93.61
+2024-09-02,Felipe Weber,South,Nike,537.7,436.29
+2025-03-06,Marion Nichols,North Central,Puma,216.68,185.42
+2024-09-08,Paul Partick,South,Jessica Simpson,577.51,146.48
+2024-04-08,Rogelio Stanley,Northeast,New Balance,490.13,327.45
+2025-11-09,Cesar Bryant,West,Tommy Hilfiger,272.85,145
+2023-07-28,Paul Partick,West,Nike,109.94,28.95
+2023-05-05,Lowell Norton,South,Ralph Lauren,310.55,243.87
+2023-07-27,Martin Lynch,Northeast,Ralph Lauren,476.52,426.29
+2024-04-19,Marion Nichols,West,Tommy Hilfiger,280.55,261.1
+2025-01-31,Dale Warren,South,Calvin Klein,173.68,87.59
+2025-08-03,Cesar Bryant,West,Tommy Hilfiger,329.21,91.42
+2026-01-02,Cesar Bryant,West,Puma,99.86,88.54
+2024-02-21,Paul Partick,North Central,Puma,282.66,144.76
+2024-07-31,Martin Lynch,West,Calvin Klein,45.08,11.34
+2024-07-19,Tomas Shaw,West,Nike,438.88,211.04
+2023-08-18,Dale Warren,West,Puma,442.8,260.86
+2025-08-10,Tomas Shaw,West,Puma,123.47,77.57
+2024-07-12,Marion Nichols,North Central,Ralph Lauren,472.2,244.75
+2025-08-01,Dale Warren,West,Ralph Lauren,191.91,90.59
+2025-05-28,Rogelio Stanley,South,Tommy Hilfiger,569.35,522.78
+2023-06-28,Aubrey Santiago,North Central,Calvin Klein,505.71,444.46
+2023-08-06,Aubrey Santiago,North Central,Nike,231.37,208.56
+2024-05-28,Dale Warren,West,Jessica Simpson,232.62,178.96
+2025-04-08,Marion Nichols,Northeast,Nike,590.72,286.82
+2025-10-29,Felipe Weber,West,Ralph Lauren,453.62,291.34
+2026-01-18,Cesar Bryant,West,ADIDAS,299.75,200.56
+2025-11-20,Paul Partick,South,Ralph Lauren,352.07,223.45
+2023-05-29,Aubrey Santiago,South,Tommy Hilfiger,508.86,152.11
+2023-05-13,Paul Partick,Northeast,ADIDAS,491.02,453.79
+2025-07-26,Cesar Bryant,North Central,Tommy Hilfiger,580.15,528.6
+2025-06-10,Aubrey Santiago,Northeast,Ralph Lauren,473.29,428.38
+2023-10-19,Rogelio Stanley,North Central,Puma,480.4,472.21
+2023-10-11,Aubrey Santiago,South,ADIDAS,404.75,149
+2024-01-27,Martin Lynch,South,Calvin Klein,410.55,205.38
+2025-09-28,Martin Lynch,West,Ralph Lauren,220.71,196.38
+2025-07-21,Martin Lynch,Northeast,Puma,414.48,282.4
+2023-09-22,Dale Warren,Northeast,New Balance,229.98,223.23
+2025-05-03,Dale Warren,South,New Balance,240.55,64.71
+2024-08-10,Tomas Shaw,South,Calvin Klein,192.38,181.71
+2023-07-30,Felipe Weber,West,Puma,460.58,347.78
+2025-08-16,Cesar Bryant,North Central,Tommy Hilfiger,309.48,134.48
+2025-04-11,Felipe Weber,South,Jessica Simpson,117.36,46.87
+2024-06-30,Rogelio Stanley,North Central,Tommy Hilfiger,411.25,134.91
+2025-11-06,Lowell Norton,North Central,Ralph Lauren,262.63,189.89
+2024-01-19,Scott Gonzalez,West,ADIDAS,159.62,115.12
+2026-02-06,Cesar Bryant,West,Calvin Klein,486.42,429.44
+2023-12-27,Lowell Norton,West,Puma,182.15,171.81
+2025-02-02,Martin Lynch,South,Nike,267.53,238.16
+2023-06-02,Tomas Shaw,South,Ralph Lauren,369.74,139.19
+2026-01-11,Felipe Weber,North Central,Tommy Hilfiger,178.14,137.97
+2025-03-19,Paul Partick,Northeast,Tommy Hilfiger,378.52,140.52
+2024-10-26,Martin Lynch,Northeast,New Balance,59.28,36.31
+2023-04-03,Lowell Norton,Northeast,ADIDAS,180.31,176.96
+2024-03-31,Scott Gonzalez,Northeast,Tommy Hilfiger,102.54,40.98
+2023-06-08,Marion Nichols,North Central,Puma,180.56,81.06
+2026-03-01,Rogelio Stanley,West,New Balance,527.05,345.49
+2023-06-20,Martin Lynch,South,Tommy Hilfiger,556.46,372.24
+2024-02-04,Aubrey Santiago,West,New Balance,115.57,97.82
+2023-05-17,Tomas Shaw,North Central,Nike,412.35,125.45
+2025-06-15,Scott Gonzalez,West,Jessica Simpson,271.21,153.14
+2025-09-26,Aubrey Santiago,South,ADIDAS,532.08,406.09
+2024-12-28,Martin Lynch,West,Nike,277.47,184.38
+2023-03-07,Aubrey Santiago,South,Ralph Lauren,244.23,227.96
+2025-02-23,Marion Nichols,Northeast,ADIDAS,115.93,113.72
+2025-07-07,Scott Gonzalez,North Central,Calvin Klein,391.1,256.7
+2025-10-25,Lowell Norton,South,Nike,375.63,252
+2024-10-01,Rogelio Stanley,Northeast,Puma,282.51,181.66
+2025-12-14,Aubrey Santiago,West,Calvin Klein,596.86,365.09
+2025-02-14,Scott Gonzalez,West,Puma,91.58,81.38
+2023-08-20,Martin Lynch,North Central,Puma,323.53,293.43
+2023-12-17,Lowell Norton,Northeast,New Balance,180.23,109.65
+2023-03-12,Marion Nichols,West,Nike,34.9,12.22
+2024-10-14,Cesar Bryant,South,Puma,173.94,86.52
+2023-03-15,Scott Gonzalez,South,New Balance,211.39,98.24
+2023-09-03,Felipe Weber,South,New Balance,117.15,80.85
+2025-09-18,Aubrey Santiago,Northeast,Tommy Hilfiger,390.14,143.8
+2025-05-20,Aubrey Santiago,West,Calvin Klein,523.25,223.01
+2023-09-14,Marion Nichols,Northeast,ADIDAS,129.46,40.42
+2024-11-02,Lowell Norton,West,New Balance,290.96,197
+2025-08-07,Aubrey Santiago,South,Jessica Simpson,562.75,535.98
+2026-02-08,Scott Gonzalez,South,Tommy Hilfiger,158.99,125.75
+2024-12-03,Martin Lynch,West,New Balance,65.62,54.35
+2025-08-24,Lowell Norton,South,Tommy Hilfiger,296.18,139.21
+2026-01-15,Paul Partick,Northeast,Nike,338.9,130.71
+2023-08-27,Felipe Weber,Northeast,ADIDAS,184.32,127.63
+2023-04-29,Scott Gonzalez,South,ADIDAS,45.55,21.6
+2024-08-08,Tomas Shaw,South,Puma,490.93,139.48
+2023-03-08,Lowell Norton,South,Jessica Simpson,228.93,224.23
+2025-01-27,Cesar Bryant,Northeast,Calvin Klein,168.26,119.04
+2024-02-14,Lowell Norton,Northeast,ADIDAS,36.77,34.61
+2025-06-03,Paul Partick,North Central,Jessica Simpson,43.79,42.44
+2025-02-12,Martin Lynch,Northeast,Puma,120.18,111.67
+2023-07-19,Rogelio Stanley,North Central,Jessica Simpson,176.59,112.16
+2023-12-11,Paul Partick,South,Calvin Klein,488.95,465.21
+2023-03-05,Rogelio Stanley,North Central,Calvin Klein,113.22,44.05
+2025-04-15,Dale Warren,North Central,Tommy Hilfiger,561.21,204.3
+2023-06-18,Scott Gonzalez,South,New Balance,450.16,335.17
+2025-03-20,Scott Gonzalez,South,Ralph Lauren,339.46,242.37
+2025-09-21,Rogelio Stanley,Northeast,Puma,266.16,232.49
+2025-05-12,Scott Gonzalez,Northeast,Jessica Simpson,351.98,219.16
+2024-10-18,Aubrey Santiago,Northeast,New Balance,503.35,167.95
+2023-09-20,Martin Lynch,South,Jessica Simpson,401.05,277.15
+2023-11-18,Tomas Shaw,West,Ralph Lauren,448,228.47
+2025-01-23,Marion Nichols,South,New Balance,230.7,66.63
+2023-12-08,Aubrey Santiago,South,Jessica Simpson,411.85,323.2
+2023-11-26,Aubrey Santiago,South,Jessica Simpson,101.42,62.93
+2024-05-31,Dale Warren,West,Jessica Simpson,369.62,357.85
+2025-12-21,Cesar Bryant,Northeast,ADIDAS,71.69,67.84
+2024-09-24,Felipe Weber,West,Ralph Lauren,411.18,263.64
+2023-04-11,Martin Lynch,West,Jessica Simpson,510.34,316.51
+2025-08-26,Marion Nichols,North Central,Ralph Lauren,369.16,304.48
+2023-06-23,Dale Warren,North Central,Puma,385.21,221.1
+2024-08-07,Cesar Bryant,North Central,Puma,83.94,67.94
+2023-11-05,Scott Gonzalez,South,Tommy Hilfiger,538.31,354.11
+2025-01-22,Cesar Bryant,Northeast,Puma,34.1,30.49
+2024-08-31,Felipe Weber,North Central,Tommy Hilfiger,112.63,82.14
+2024-10-04,Cesar Bryant,North Central,Puma,534.8,415.91
+2024-03-28,Paul Partick,South,Jessica Simpson,72.19,37.66
+2025-12-03,Felipe Weber,Northeast,Jessica Simpson,217.47,91.78
+2024-07-15,Cesar Bryant,South,Jessica Simpson,454.66,153.12
+2023-10-06,Martin Lynch,South,ADIDAS,227.48,153.45
+2024-09-12,Paul Partick,North Central,Jessica Simpson,379.87,369.83
+2025-08-14,Dale Warren,South,Ralph Lauren,165.08,76.74
+2026-01-27,Felipe Weber,South,Tommy Hilfiger,333.39,176.08
+2025-06-19,Scott Gonzalez,South,New Balance,527.27,420.42
+2024-03-24,Dale Warren,Northeast,Tommy Hilfiger,592.6,198.37
+2023-12-19,Felipe Weber,South,ADIDAS,194.6,90.37
+2025-11-05,Paul Partick,West,Calvin Klein,596.57,211.13
+2023-09-15,Cesar Bryant,West,Jessica Simpson,483.42,280.9
+2025-02-11,Lowell Norton,South,Ralph Lauren,40.92,26.26
+2025-05-30,Paul Partick,North Central,Calvin Klein,256.32,222.34
+2023-11-22,Martin Lynch,West,Tommy Hilfiger,349.57,236.7
+2023-11-11,Tomas Shaw,South,Tommy Hilfiger,188.94,111.67
+2025-08-22,Dale Warren,West,Calvin Klein,255.83,211.21
+2024-08-06,Scott Gonzalez,North Central,ADIDAS,216.42,207.2
+2024-02-05,Tomas Shaw,West,Calvin Klein,197.64,155.26
+2024-12-10,Marion Nichols,South,Ralph Lauren,388.3,274.5
+2024-09-15,Scott Gonzalez,South,Calvin Klein,554.13,426.62
+2023-05-31,Martin Lynch,South,ADIDAS,260.64,82.01
+2025-07-02,Martin Lynch,Northeast,Puma,214.85,93.88
+2024-02-08,Rogelio Stanley,South,Calvin Klein,103.89,90.12
+2023-06-06,Tomas Shaw,North Central,ADIDAS,117.38,104.66
+2024-01-24,Dale Warren,West,Jessica Simpson,199.33,156.71
+2023-06-04,Felipe Weber,North Central,Calvin Klein,558.2,536.59
+2023-03-22,Scott Gonzalez,Northeast,Calvin Klein,160.81,41.2
+2024-01-29,Aubrey Santiago,West,Puma,230.34,91.34
+2025-04-19,Felipe Weber,West,Ralph Lauren,73.98,50.89
+2024-12-14,Scott Gonzalez,South,ADIDAS,58.37,26.42
+2023-03-21,Tomas Shaw,Northeast,Nike,576.74,479.65
+2023-08-12,Aubrey Santiago,North Central,Tommy Hilfiger,277.97,129.27
+2025-10-10,Tomas Shaw,North Central,New Balance,426.59,250.77
+2025-03-29,Marion Nichols,South,Puma,533.86,138.34
+2024-09-03,Lowell Norton,South,Jessica Simpson,122.05,62.03
+2023-06-24,Scott Gonzalez,North Central,Jessica Simpson,424.72,400.69
+2024-03-26,Aubrey Santiago,Northeast,Puma,296.79,129.86
+2023-04-01,Marion Nichols,Northeast,New Balance,199.57,62.61
+2024-11-08,Lowell Norton,North Central,Nike,549.89,421.77
+2026-01-23,Felipe Weber,North Central,Calvin Klein,466.17,392.87
+2024-12-23,Martin Lynch,North Central,Ralph Lauren,241.25,164.41
+2025-06-18,Aubrey Santiago,Northeast,Puma,92.15,70.28
+2024-08-02,Dale Warren,South,New Balance,411.4,167.16
+2023-07-14,Felipe Weber,South,Calvin Klein,62.93,41.16
+2023-10-21,Lowell Norton,Northeast,Puma,44.62,32.25
+2023-03-17,Felipe Weber,West,ADIDAS,322.53,89.77
+2025-05-10,Felipe Weber,West,Ralph Lauren,79.44,25.14
+2023-09-27,Martin Lynch,Northeast,Tommy Hilfiger,279,180.16
+2024-03-04,Martin Lynch,Northeast,Jessica Simpson,81.42,66.98
+2025-12-04,Dale Warren,South,Ralph Lauren,295.09,139.75
+2023-10-27,Tomas Shaw,South,Calvin Klein,198.83,122.43
+2023-05-01,Lowell Norton,South,Nike,327.94,261.32
+2023-08-25,Aubrey Santiago,South,New Balance,174.46,159.57
+2024-10-16,Rogelio Stanley,North Central,Puma,189.15,181.09
+2024-08-23,Lowell Norton,South,Calvin Klein,566.91,272.92
+2025-05-26,Tomas Shaw,South,New Balance,370.97,184.72
+2024-06-21,Felipe Weber,North Central,Puma,535.76,441.75
+2024-11-28,Martin Lynch,South,New Balance,55.85,37.65
+2025-12-19,Dale Warren,Northeast,New Balance,286.7,91.49
+2024-10-11,Felipe Weber,North Central,Puma,557.24,168.28
+2025-11-29,Felipe Weber,Northeast,Ralph Lauren,282.11,250.97
+2024-06-06,Lowell Norton,South,Puma,85.63,79.82
+2025-10-13,Cesar Bryant,North Central,Ralph Lauren,158.87,45.19
+2025-05-27,Tomas Shaw,North Central,Ralph Lauren,327.23,287
+2024-03-23,Aubrey Santiago,West,Ralph Lauren,174.81,120.47
+2024-11-22,Martin Lynch,West,Puma,488.77,483.69
+2026-01-30,Lowell Norton,South,ADIDAS,540.94,208.91
+2024-03-25,Rogelio Stanley,South,Ralph Lauren,216.46,83.18
+2025-03-23,Paul Partick,North Central,Ralph Lauren,318.54,97.05
+2026-02-16,Dale Warren,North Central,Tommy Hilfiger,414.7,243.34
+2024-07-02,Scott Gonzalez,North Central,ADIDAS,143.67,109.11
+2025-10-07,Dale Warren,South,Tommy Hilfiger,169.68,137.78
+2024-04-28,Tomas Shaw,Northeast,ADIDAS,409.06,325.28
+2025-05-05,Lowell Norton,North Central,ADIDAS,235.84,145.86
+2025-05-17,Scott Gonzalez,South,Ralph Lauren,242.13,131.82
+2025-12-17,Martin Lynch,Northeast,Tommy Hilfiger,116.08,109.35
+2025-09-09,Marion Nichols,Northeast,Ralph Lauren,468.58,206.15
+2025-06-22,Marion Nichols,North Central,Puma,56.96,32.33
+2025-10-30,Cesar Bryant,North Central,Jessica Simpson,498.55,479.83
+2023-09-05,Cesar Bryant,South,Jessica Simpson,304.46,95.79
+2023-07-03,Martin Lynch,Northeast,Tommy Hilfiger,492.16,277.92
+2025-11-23,Dale Warren,North Central,New Balance,144.65,97.71
+2023-04-26,Marion Nichols,South,Jessica Simpson,297.77,244.15
+2024-08-03,Scott Gonzalez,Northeast,Jessica Simpson,551.1,212.3
+2026-02-17,Marion Nichols,South,New Balance,297.69,260.25
